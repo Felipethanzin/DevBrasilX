@@ -29,15 +29,16 @@ Seja você um estudante iniciante, um programador experiente ou um curioso da á
 <h3 align="center">📱 Interface do Aplicativo</h3>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6d215040-42c6-46bd-b6a7-7545b847676f" width="200" alt="Splash Screen" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/48ab50e5-9ec2-4a35-a7c7-cc5cc79f9da9" width="200" alt="Tela de Login" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/1d28b9c6-cacc-4157-9525-c5d739b78104" width="200" alt="Feed Principal" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/d4f364d9-0676-45b8-bac9-9b78fbce6fed" width="200" alt="Menu Lateral" />
+  <img src="https://github.com/user-attachments/assets/3932bab4-6234-447a-91de-31376b420763" width="180" alt="Logo DevBrasilX" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/6d215040-42c6-46bd-b6a7-7545b847676f" width="180" alt="Splash Screen" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/48ab50e5-9ec2-4a35-a7c7-cc5cc79f9da9" width="180" alt="Tela de Login" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/1d28b9c6-cacc-4157-9525-c5d739b78104" width="180" alt="Feed Principal" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/d4f364d9-0676-45b8-bac9-9b78fbce6fed" width="180" alt="Menu Lateral" />
 </div>
-
 
 *(Substitua os links acima pelas capturas de tela do seu aplicativo)*
 
