@@ -1,4 +1,4 @@
-<img width="717" height="1600" alt="WhatsApp Image 2026-10-27 at 17 07 46" src="https://github.com/user-attachments/assets/6dc1fbf4-6eec-45b4-b715-d1b4504231c6" />
+
 # 🚀 DevBrasilX
 
 <div align="center">
@@ -26,15 +26,18 @@ O **DevBrasilX** é uma aplicação **Web e Mobile** moderna desenvolvida em **F
 Seja você um estudante iniciante, um programador experiente ou um curioso da área, o DevBrasilX oferece um ambiente seguro, livre para todas as idades e recheado de ferramentas interativas para turbinar seus estudos e networking dev.
 
 ---
-
-## 📸 Interface do Aplicativo
+<h3 align="center">📱 Interface do Aplicativo</h3>
 
 <div align="center">
-  <img src="https://via.placeholder.com/250x500/0A1128/FFFFFF?text=Splash+Screen" width="22%" alt="Splash Screen" />
-  <img src="https://via.placeholder.com/250x500/0A1128/FFFFFF?text=Login" width="22%" alt="Tela de Login" />
-  <img src="https://via.placeholder.com/250x500/0A1128/FFFFFF?text=Feed+Principal" width="22%" alt="Feed Principal" />
-  <img src="https://via.placeholder.com/250x500/0A1128/FFFFFF?text=Menu+Navegacao" width="22%" alt="Menu Lateral" />
+  <img src="https://github.com/user-attachments/assets/6d215040-42c6-46bd-b6a7-7545b847676f" width="200" alt="Splash Screen" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/48ab50e5-9ec2-4a35-a7c7-cc5cc79f9da9" width="200" alt="Tela de Login" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/1d28b9c6-cacc-4157-9525-c5d739b78104" width="200" alt="Feed Principal" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/d4f364d9-0676-45b8-bac9-9b78fbce6fed" width="200" alt="Menu Lateral" />
 </div>
+
 
 *(Substitua os links acima pelas capturas de tela do seu aplicativo)*
 
