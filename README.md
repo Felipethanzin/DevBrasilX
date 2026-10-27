@@ -1,3 +1,4 @@
+<img width="717" height="1600" alt="WhatsApp Image 2026-10-27 at 17 07 46" src="https://github.com/user-attachments/assets/6dc1fbf4-6eec-45b4-b715-d1b4504231c6" />
 # 🚀 DevBrasilX
 
 <div align="center">
